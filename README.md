@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi, I'm Ogheneochuko Godswill 👋
+AI Automation Engineer
 
-<!--
-**godswillmamus54-max/godswillmamus54-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered workflow automation systems using n8n, Docker, Linux, REST APIs, and modern AI services.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies
+n8n
+Docker
+Ubuntu Linux
+Kali Linux
+REST APIs
+Git
+GitHub
+Prompt Engineering
+AI Workflow Automation
+Current Projects
+AI Video Factory
+AI Content Factory
+AI Job Assistant
+AI Workflow Library
+Currently Learning
+Kubernetes
+AWS
+Python for Automation
+LangChain
+MCP Servers
+Connect with me
+LinkedIn: https://www.linkedin.com/in/ogheneochuko-godswill
+Email: godswillmamus54@gmail.com
