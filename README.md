@@ -52,7 +52,6 @@ I build production-ready AI systems, workflow automations, cloud infrastructure,
 
 **https://godswill-portfolio-sigma.vercel.app**
 
-*(Later we'll replace this with `portfolio.godswillai.dev`.)*
 
 ---
 
