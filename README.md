@@ -129,6 +129,9 @@ AI-powered recruitment automation designed to:
 - Match candidate experience with job requirements
 - Automate application workflows
 
+- 🔗 **Repository:** 
+- https://github.com/godswillmamus54-max/AI-Job-Assistant
+
 ---
 
 ## 🏦 Online Banking Demo
